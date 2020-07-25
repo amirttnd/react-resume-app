@@ -1,50 +1,45 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
+    "name":"Mohd Amir",
+    "occupation":"Senior Software Engineer",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "mohdamir44@gmail.com",
+    "phone": "+91 9958123972",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Gaur City",
+      "city":"Noida",
+      "state":"UP",
+      "zip": "201009"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.amirbio.com",
+    "resumedownload":"http://amirbio.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/amirsiddiqui44",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/mohdamir441",
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/mohdamir44/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/__mohd_amir__/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/amirttnd",
         "className":"fa fa-github"
       },
       {
@@ -55,62 +50,96 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"TECHNICAL SKILLS",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Krishna Institute Of Engineering Collage",
+        "degree":"Master of Computer Application (MCA)",
+        "graduated":"2012-15",
+        "description":""
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Teerthankar Mahaveer University?",
+        "degree":"Bachelor of Computer Application (BCA)",
+        "graduated":"2008-11",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Mat.se (ToTheNew Digital Pvt Ltd)",
+        "title":"Senior Software Engineer",
+        "years":"December 2019 - Present",
+        "description":"A leading e-commerce company based in sweden. A company offers a broad range of groceries online and focused on delivering high quality food items at competitive price. They have also entered in strategic partnership with Volvo to launch “Volvo in Car Delivery” an innovative  online service to deliver groceries directly to customers car .Mat.se has a full range of food products in combination with inspiring recipes, weekly menus and the ability to hand-pick your own grocery bags. www.mat.se. "
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"eSign (Leegality.com)",
+        "title":"Senior Software Engineer ",
+        "years":"September 2010 - November 2019",
+        "description":" A leading indian Aadhaar eSign and eStamping  gateway which provide a platform for digital business documentation. That provide secure, legally acceptable, tamper proof, quick and convenient Aadhaar eSign and eStamping facilities to all kinds of businesses. And its provide different type of signatures like Document Signer (PKCS12), DSC (PKCS11), Virtual Sign, Aadhaar based Online  and Offline eSign."
+      },
+      {
+        "company":"Mat.se (ToTheNew Digital Pvt Ltd)",
+        "title":"Software Engineer",
+        "years":"March 2016 - August 2018",
+        "description":"A leading e-commerce company based in sweden."
+      },
+      {
+        "company":"Content Automation (ToTheNew Digital Pvt Ltd)",
+        "title":"Software Engineer",
+        "years":"Duration 12 Month",
+        "description":"A tool to automate the delivery of video contents for online access on YouTube and DITTO tv. This tool was used to upload video content for Sony, Colors, Zee along with their metadata for online viewing. Major features of this tool were to capture data from UI and generate XML/CSV then uploading the same with the video file and thumbnail images. In phase 2 of the project we are planning to integrate ASPERA for quickly uploading to YouTube. We are also integrating ELEMENTAL server with our tool and a secondary application which will facilitate a priority queue to ensure that not all systems in the network start sending the data."
+      },
+      {
+        "company":"DDEX Ingestion Tool (ToTheNew Digital Pvt Ltd)",
+        "title":"Software Engineer",
+        "years":"Duration 3 Month",
+        "description":"A tool to complete the Digital Supply Chain. This tool implements the standardised Digital Data Exchange (DDEX) standards which are widely used by major merchants like iTunes, Google Music, YouTube and many more. Through this tool we facilitated the functionality for the music providers to ingest their content to merchants like Google and YouTube. Google will be starting Google Music using this tool in India."
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"75%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Grails, Spring Boot",
+        "level":"85%"
+      },
+      {
+        "name":"Java 7,8, Groovy",
+        "level":"85%"
+      },
+      {
+        "name":"Hibernate, GORM (Grails)",
+        "level":"80%"
       },
       {
         "name":"ReactJs",
         "level":"50%"
       },
       {
-        "name":"CSS",
+        "name":"AngularJS",
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":"MySql",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Linux",
+        "level":"90%"
       },
       {
-        "name":"MongoDB",
+        "name":"Maven, Gradle",
+        "level":"70%"
+      },
+      {
+        "name":"CSS, HTML",
+        "level":"40%"
+      },
+      {
+        "name":"jQuery, Javascript",
         "level":"80%"
       }
     ]
