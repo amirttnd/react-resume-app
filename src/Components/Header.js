@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
 function Header(props) {
-    var name, occupation, description, city, networks;
+    let name, occupation, description, city, networks;
     if (props.data) {
         name = props.data.name;
         occupation = props.data.occupation;
